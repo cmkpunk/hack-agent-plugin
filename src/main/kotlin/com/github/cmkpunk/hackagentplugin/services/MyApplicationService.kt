@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cmkpunk.hackagentplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cmkpunk.hackagentplugin.MyBundle
 
 class MyApplicationService {
 
